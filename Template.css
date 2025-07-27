@@ -47,8 +47,8 @@ header.fixed {
 }
 
 .logo {
-  width: 8rem;
-  height: 8rem;
+  width: 4rem;
+  height: 4rem;
   border-radius: 50%;
 }
 
@@ -61,7 +61,7 @@ header.fixed {
 
 /* Navigation bar */
 .top_navbar {
-  margin-top: 8rem; /* Push below fixed header */
+  margin-top: 10rem; /* Push below fixed header */
   background-color: #ffffff;
   padding: 0.5rem 0;
 }
